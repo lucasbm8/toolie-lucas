@@ -10,8 +10,8 @@ import Login from '../components/Login'
 const _layout = () => {
 
     return (
-        <Login/>
-    // <Tabs/>
+        // <Login/>
+    <Tabs/>
   )
 }
 
